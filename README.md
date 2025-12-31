@@ -3,7 +3,7 @@
 - 🎓 As of right now, I'm a 3rd-year computer science student @ Queen's University
 - 🖥️ I'm focused on developing my skills as a Full-Stack Developer
 - 👩‍🏫 Right now, I'm working on a grocery search assistant web app and exploring IoT concepts through my Raspberry Pi
-- 🔭 Fun Fact: I love gaming and anything to do with PC hardware/Building
+- 🔭 Fun Fact: I love Dinosaurs and anything to do with paleontology!
 
 <p float="left">
   <img src="https://www.deviantart.com/hoshiixs/art/Pc-gamer-Pixel-Art-Animation-1065267277" width="200" />
