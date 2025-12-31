@@ -6,7 +6,7 @@
 - 🔭 Fun Fact: I love Dinosaurs and anything to do with paleontology!
 
 <p float="left">
-  <img src="https://www.deviantart.com/hoshiixs/art/Pc-gamer-Pixel-Art-Animation-1065267277" width="200" />
+  <img src="image_2025-12-30_193245897.png" width="200" />
 </p>
 
 <!--
