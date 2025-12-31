@@ -7,7 +7,7 @@
 
 <p float="left">
   <img src="image_2025-12-30_193245897.png" width="250" />
-  <img src="image_2025-12-30_193705371.png" width="250" />
+  <img src="image_2025-12-30_194332642.png" width="250" />
 </p>
 
 <!--
