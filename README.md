@@ -6,8 +6,8 @@
 - 🔭 Fun Fact: I love Dinosaurs and anything to do with paleontology!
 
 <p float="left">
-  <img src="image_2025-12-30_193245897.png" width="200" />
-  <img src="image_2025-12-30_193705371.png" width="200" />
+  <img src="image_2025-12-30_193245897.png" width="250" />
+  <img src="image_2025-12-30_193705371.png" width="250" />
 </p>
 
 <!--
